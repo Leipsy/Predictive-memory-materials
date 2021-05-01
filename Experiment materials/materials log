@@ -1,0 +1,21 @@
+The experiment materials for the online experiment conducted in May 2021 posted on MTurk.
+a,b,c,d four different catetories, each consisting of 4 subcategories, 30 photos for each subcategory. 1,2 are index for small photos, 3,4 are index for large photos.
+a1: bluejay;
+a2: canary;
+a3: peacock;
+a4: ostrich;
+
+b1: hare;
+b2: fox;
+b3: lion;
+b4: deer;
+
+c1: hammer;
+c2: screwdriver;
+c3: hoe;
+c4: rake;
+
+d1: mixer;
+d2: kettle;
+d3: oven;
+d4: dishwasher
